@@ -12,6 +12,7 @@ References for conversion script:
 - [Tensorflow 2 models on Jetson Nano](https://discuss.tensorflow.org/t/tensorflow-2-models-on-jetson-nano/6122/6)
 - [Converting TF 2 Object Detection Model to TensorRT](https://github.com/tensorflow/tensorrt/issues/207#issuecomment-881422008)
 - [TF-TRT API In TensorFlow 2.0](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html#tf-trt-api-20)
+- [tf2_inference.py](https://github.com/tensorflow/tensorrt/blob/master/tftrt/blog_posts/Leveraging%20TensorFlow-TensorRT%20integration%20for%20Low%20latency%20Inference/tf2_inference.py)
 
 Things to try:
 - Run `$ sudo tegrastats` during execution
